@@ -1,6 +1,3 @@
-> [!WARNING]
-> [Optimizing the process of customizing input sizes](https://github.com/Peterande/D-FINE/commit/e37b494f2c7ff0a51a52a383826dbb50b387bc34) コミット以降、学習が失敗しているため調査中です
-
 # D-FINE-Colaboratory-Training-Sample
 <img src="https://github.com/user-attachments/assets/75ab497f-19dc-4376-b932-658798fc6dc1" width="60%"><br>
 
